@@ -4,3 +4,7 @@ h1 {
     color: #404040;
     margin-left: 22px;
   }
+
+  img {
+    image-orientation: from-image;
+}
